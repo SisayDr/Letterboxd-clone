@@ -59,7 +59,7 @@ const Footer = () => {
           &copy;Letterboxd Limited. Made by fans in Aotearoa New Zealand. Film
           data from TMDb. Mobile site.
           <br />
-          cloned by @SisayDr
+          cloned by <a href="https://github.com/@SisayDr>@SisayDr</a>
         </p>
       </div>
     </footer>
